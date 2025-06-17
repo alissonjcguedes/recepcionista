@@ -1,0 +1,7 @@
+{
+  "name": "recepcionista-ia",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  }
+}
